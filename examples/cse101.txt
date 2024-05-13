@@ -1,0 +1,10 @@
+1,Introduction,Introduction to Programming,2,2024-05-20,2024-05-24
+2,Introduction,Basic Syntax and Data Types,2,2024-05-27,2024-05-31
+3,Control Flow,Conditional Statements (if-else),2,2024-06-03,2024-06-07
+4,Control Flow,Looping Constructs (for&while),2,2024-06-10,2024-06-14
+5,Functions,Defining and Using Functions,2,2024-06-17,2024-06-21
+6,Midterm Exam,Midterm Examination,2,2024-06-24,2024-06-24
+7,Arrays,Introduction to Arrays,2,2024-07-01,2024-07-05
+8,Arrays,Multidimensional Arrays,2,2024-07-08,2024-07-12
+9,Strings,String Manipulation,2,2024-07-15,2024-07-19
+10,Introduction,Introduction to Object-Oriented Programming (OOP),2,2024-07-22,2024-07-26

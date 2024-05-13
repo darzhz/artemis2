@@ -1,0 +1,10 @@
+1,Introduction,Introduction to Database Systems & Data Modeling,2,2024-10-14,2024-10-18
+2,Introduction,Entity-Relationship (ER) Modeling,2,2024-10-21,2024-10-25
+3,Relational DB,Introduction to Relational Databases,2,2024-10-28,2024-11-01
+4,SQL,Introduction to SQL and Data Manipulation Language (DML),2,2024-11-04,2024-11-08
+5,SQL,Data Definition Language (DDL) and Advanced SQL,2,2024-11-11,2024-11-15
+6,Midterm Exam,Midterm Examination,2,2024-11-18,2024-11-18
+7,Database Design,Database Normalization Techniques,2,2024-11-25,2024-11-29
+8,Database Design,Transaction Management & Concurrency Control,2,2024-12-02,2024-12-06
+9,Introduction,Introduction to NoSQL Databases,2,2024-12-09,2024-12-13
+10,Project,Database Design and Implementation Project,4,2024-12-16,2024-12-20

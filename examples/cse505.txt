@@ -1,0 +1,10 @@
+1,Introduction,Introduction to Web Development & Technologies,2,2025-02-17,2025-02-21
+2,HTML,Introduction to HTML Structure and Elements,2,2025-02-24,2025-02-28
+3,HTML,Advanced HTML: Forms - Tables and Multimedia,2,2025-03-03,2025-03-07
+4,CSS,Introduction to Cascading Style Sheets (CSS),2,2025-03-10,2025-03-14
+5,CSS,Advanced CSS: Layouts Positioning and Animations,2,2025-03-17,2025-03-21
+6,PHp,Introduction to Php,2,2025-03-24,2025-03-24
+7,JavaScript,Introduction to JavaScript Programming Fundamentals,2,2025-03-31,2025-04-04
+8,JavaScript,DOM Manipulation and Event Handling in JavaScript,2,2025-04-07,2025-04-11
+9,Frameworks,Introduction to Client-Side Web Frameworks (e.g React),2,2025-04-14,2025-04-18
+10,Project,Web Application Development Project,4,2025-04-21,2025-04-25
